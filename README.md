@@ -12,7 +12,7 @@ The names of train and val data are constructed as bellow:
 img_xxx_$$$.jpg
 ```
 where 'xxx' represents the number of this image and '$$$' represents the label of this image. For example，‘img_0_WHLU.jpg’. <br>
-![img_0_WHLU](https://github.com/jingjing-you/GRCNN.pytorch/blob/master/data_sample/img_0_WHLU.jpg) 
+![img_0_WHLU](https://github.com/jingjing-you/GRCNN.pytorch/blob/master/data_sample/img_0_WHLU.jpg)<br>
 Other examples are in `data_sample` directory.
 
 ## Training the model 
