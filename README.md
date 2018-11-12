@@ -12,23 +12,13 @@ The names of train and val data are constructed as bellow:
 img_xxx_$$$.jpg
 ```
 where 'xxx' represents the number of this image and '$$$' represents the label of this image. For example，‘img_0_WHLU.jpg’. <br>
-<div align=center><img src="https://github.com/jingjing-you/GRCNN.pytorch/blob/master/data_sample/img_0_WHLU.jpg"/></div>
-Other examples are in 
-`data_sample`
-directory.
+![img_0_WHLU](https://github.com/jingjing-you/GRCNN.pytorch/blob/master/data_sample/img_0_WHLU.jpg) 
+Other examples are in `data_sample` directory.
 
 ## Training the model 
-You can run
-```
-python train.py
-```
-to train your model.
+You can run `python train.py` to train your model.
 ## Evaluation
-You can run
-```
-python eval.py
-```
-to eval your model.
+You can run `python eval.py` to eval your model.
 ## References
 1. [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch) <br>
 2. [https://github.com/bgshih/crnn](https://github.com/bgshih/crnn) <br>
