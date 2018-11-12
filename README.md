@@ -2,7 +2,7 @@
 ## Introduction
 This is a pytorch implementation of [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717).<br>
 This implementation is similar to [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch), we rewrite it and make it easy to understand.<br>
-A GRCNN implementaion is in [https://github.com/jingjing-you/GRCNN_OCR.pytorch](https://github.com/jingjing-you/GRCNN_OCR.pytorch)
+A GRCNN implementaion is in [https://github.com/jingjing-you/GRCNN_OCR.pytorch](https://github.com/jingjing-you/GRCNN_OCR.pytorch).
 ## Requirements
 1. Pytorch >= 0.4.0 <br>
 2. opencv <br>
