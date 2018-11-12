@@ -1,6 +1,7 @@
 # CRNN.pytorch
 ## Introduction
-This is a pytorch implementation of [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717).
+This is a pytorch implementation of [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717).<br>
+This implementation is similar to [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch), we rewrite it and make it easy to understand.
 ## Requirements
 1. Pytorch >= 0.4.0 <br>
 2. opencv <br>
